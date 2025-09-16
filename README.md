@@ -212,6 +212,7 @@ EOF
 </pre>
 
 <p>Run it:</p>
+
 <pre>
 chmod +x run_tests.sh
 ./run_tests.sh
